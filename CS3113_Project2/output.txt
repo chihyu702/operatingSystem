@@ -1,0 +1,32 @@
+Time 0-20: P1 (Priority 40)
+Time 20-25: Idle
+Time 25-35: P2 (Priority 30)
+Time 35-45: P3 (Priority 30)
+Time 45-55: P2 (Priority 30)
+Time 55-60: P3 (Priority 30)
+Time 60-75: P4 (Priority 35)
+Time 75-80: P2 (Priority 30)
+Time 80-90: P3 (Priority 30)
+Time 90-100: Idle
+Time 100 - 105: P5 (Priority 5)
+Time 105 - 115: P6 (Priority 10)
+Time 115 - 120: P5 (Priority 5)
+
+Turnaround Time
+P1 = 20
+P2 = 55
+P3 = 60
+P4 = 15
+P5 = 20
+P6 = 10
+
+Waiting Time
+P1 = 0
+P2 = 30
+P3 = 35
+P4 = 0
+P5 = 10
+P6 = 0
+
+CPU Utilization Time
+105/120

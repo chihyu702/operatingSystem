@@ -1,0 +1,9 @@
+Before granting the request of P4, the system is in safe state.
+Simulating granting P4's request.
+New Need
+7 4 3
+1 2 2
+6 0 0
+0 1 1
+1 0 1
+P4's request cannot be granted. The system will be in unsafe state.

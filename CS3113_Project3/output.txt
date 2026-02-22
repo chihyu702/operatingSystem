@@ -1,0 +1,9 @@
+Before granting the request of P1, the system is in safe state.
+Simulating granting P1's request.
+New Need
+7 4 3
+0 2 0
+6 0 0
+0 1 1
+4 3 1
+P1's request can be granted. The system will be in safe state.
